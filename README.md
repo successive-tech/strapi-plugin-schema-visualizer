@@ -1,0 +1,1 @@
+# strapi-plugin-schema-visualizer
