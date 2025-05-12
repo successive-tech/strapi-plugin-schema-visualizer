@@ -1,0 +1,4 @@
+/* Import all component CSS files */
+@import './components/CustomNode.css';
+@import './components/RelationIcon.css';
+@import './pages/styles.css';
