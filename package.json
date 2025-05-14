@@ -1,13 +1,13 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "keywords": [],
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/aviralnx/strapi-plugin-schema-visualizer/issues"
+    "url": "https://github.com/successive-tech/strapi-plugin-schema-visualizer/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/aviralnx/strapi-plugin-schema-visualizer.git"
+    "url": "git://github.com:successive-tech/strapi-plugin-schema-visualizer.git"
   },
   "exports": {
     "./package.json": "./package.json",
