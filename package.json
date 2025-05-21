@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "keywords": [],
   "type": "commonjs",
   "bugs": {
@@ -77,5 +77,5 @@
   "name": "strapi-plugin-schema-visualizer",
   "description": "A Strapi plugin to visualize and interact with your application's schema, providing an intuitive graphical representation for better understanding and management.",
   "license": "MIT",
-  "author": "aviralnx <aviral.swarnkar@successive.tech>"
+  "author": "Successive Digital <aviral.swarnkar@successive.tech>"
 }
